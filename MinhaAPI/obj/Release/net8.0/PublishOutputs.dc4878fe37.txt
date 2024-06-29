@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\MinhaAPI.exe
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\appsettings.Development.json
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\appsettings.json
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\MinhaAPI.dll
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\MinhaAPI.deps.json
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\MinhaAPI.runtimeconfig.json
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\MinhaAPI.pdb
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\Microsoft.OpenApi.dll
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rodrigo\Documents\Github\pos-tech-fiap-ghactions-aspnet-api\MinhaAPI\out\Swashbuckle.AspNetCore.SwaggerUI.dll

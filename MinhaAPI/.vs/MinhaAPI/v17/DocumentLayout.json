@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Documents\\Github\\pos-tech-fiap-ghactions-aspnet-api\\MinhaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D464D474-6831-4583-AF94-6D489A29672D}|MinhaAPI.csproj|c:\\users\\rodrigo\\documents\\github\\pos-tech-fiap-ghactions-aspnet-api\\minhaapi\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D464D474-6831-4583-AF94-6D489A29672D}|MinhaAPI.csproj|solutionrelative:controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464D474-6831-4583-AF94-6D489A29672D}|MinhaAPI.csproj|c:\\users\\rodrigo\\documents\\github\\pos-tech-fiap-ghactions-aspnet-api\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D464D474-6831-4583-AF94-6D489A29672D}|MinhaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\Github\\pos-tech-fiap-ghactions-aspnet-api\\MinhaAPI\\Controllers\\TesteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TesteController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\Github\\pos-tech-fiap-ghactions-aspnet-api\\MinhaAPI\\Controllers\\TesteController.cs",
+              "RelativeToolTip": "Controllers\\TesteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:05:27.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\Github\\pos-tech-fiap-ghactions-aspnet-api\\MinhaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\Github\\pos-tech-fiap-ghactions-aspnet-api\\MinhaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:04:57.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
