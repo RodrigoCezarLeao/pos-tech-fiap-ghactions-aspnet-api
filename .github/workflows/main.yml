@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
     - name: Step 1
-      uses: action/checkout@v2
+      uses: actions/checkout@v2
       # Download dos arquivos da pasta raiz do repositório corrente (atual) do github
 
     - name: Docker Login    
